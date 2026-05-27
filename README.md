@@ -46,15 +46,16 @@ A console-based application that allows users to manage hotel rooms and handle c
 1. Clone this repository
 2. Import project in your IDE
 3. Create MySQL database:
-   ```sql
-
+---
 
 **Database Schema**
 <img width="901" height="693" alt="image" src="https://github.com/user-attachments/assets/83c0fd6e-70e1-466f-9b55-b539a9561d0d" />
 
-
+---
 
 ## 👨‍💻 Author
 
 MO AYAN KHAN 
 
+
+   ```sql
