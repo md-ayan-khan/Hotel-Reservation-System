@@ -47,7 +47,6 @@ A console-based application that allows users to manage hotel rooms and handle c
 2. Import project in your IDE
 3. Create MySQL database:
    ```sql
-CREATE DATABASE HotelReservationSystem;
 
 
 **Database Schema**
